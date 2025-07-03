@@ -1,0 +1,6 @@
+insert into Customer(id, name) values(10, 'Salih Ocak')
+insert into Customer(id, name) values(11, 'Esma Demir')
+insert into Customer(id, name) values(12, 'Sevim Akça')
+insert into Customer(id, name) values(13, 'Ayla Okur')
+insert into Customer(id, name) values(14, 'Sevim Sancak')
+insert into Customer(id, name) values(15, 'Filiz Çamlı')

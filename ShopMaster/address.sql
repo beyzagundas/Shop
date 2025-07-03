@@ -1,0 +1,6 @@
+insert into Address(id, customer_id, type) values(1000, 10, 'Ev')
+insert into Address(id, customer_id, type) values(1001, 11, 'Ev')
+insert into Address(id, customer_id, type) values(1002, 12, 'İş')
+insert into Address(id, customer_id, type) values(1003, 13, 'Yurt')
+insert into Address(id, customer_id, type) values(1004, 14, 'İş')
+insert into Address(id, customer_id, type) values(1005, 15, 'Ev')

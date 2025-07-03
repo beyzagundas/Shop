@@ -1,0 +1,6 @@
+insert into _Order(id, customer_id, name, handled_by) values(984, 10, 'Shampoo', 71)
+insert into _Order(id, customer_id, name, handled_by) values(985, 11, 'Shirt', 71)
+insert into _Order(id, customer_id, name, handled_by) values(986, 12, 'Bag', 72)
+insert into _Order(id, customer_id, name, handled_by) values(987, 13, 'Glasses', 72)
+insert into _Order(id, customer_id, name, handled_by) values(988, 14, 'Laptop', 71)
+insert into _Order(id, customer_id, name, handled_by) values(989, 15, 'Headphones', 72)

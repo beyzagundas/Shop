@@ -1,0 +1,6 @@
+insert into Review(point, comment, id, customer_id, product_id) values(4, 'Güzel', 139, 10, 39)
+insert into Review(point, comment, id, customer_id, product_id) values(5, 'Beğendim', 140, 11, 40)
+insert into Review(point, comment, id, customer_id, product_id) values(5, null, 141, 12, 41)
+insert into Review(point, comment, id, customer_id, product_id) values(3, 'Paketlemesi çok hoştu', 142, 13, 42)
+insert into Review(point, comment, id, customer_id, product_id) values(5, null, 143, 14, 43)
+insert into Review(point, comment, id, customer_id, product_id) values(1, null, 144, 15, 44)

@@ -1,0 +1,6 @@
+insert into OrderItem(id, order_id, product_id) values(90, 984, 39)
+insert into OrderItem(id, order_id, product_id) values(91, 985, 40)
+insert into OrderItem(id, order_id, product_id) values(92, 986, 41)
+insert into OrderItem(id, order_id, product_id) values(93, 987, 42)
+insert into OrderItem(id, order_id, product_id) values(94, 988, 43)
+insert into OrderItem(id, order_id, product_id) values(95, 989, 44)

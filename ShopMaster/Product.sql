@@ -1,0 +1,6 @@
+insert into Product(name, id, category_id) values('Shampoo', 39, 3)
+insert into Product(name, id, category_id) values('Shirt', 40, 4)
+insert into Product(name, id, category_id) values('Bag', 41, 4)
+insert into Product(name, id, category_id) values('Glasses', 42, 4)
+insert into Product(name, id, category_id) values('Laptop', 43, 2)
+insert into Product(name, id, category_id) values('Headphones', 44, 2)
